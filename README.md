@@ -16,7 +16,7 @@ This keypad is used to take input of password from the user. It consists of 12 p
 
 # Software used
 1. Proteus
-This software was used to build the schematic diagram and run the simulation. The simulation can be done by giving the HEX file of the code to the microcontroller. 
+The circuit diagram provided is built in this software. The simulation can be done by giving the HEX file of the code to the microcontroller. 
 
 2. MPLAB XC8
 This is a compiler software that allows you to write code and generate their HEX files. 
