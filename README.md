@@ -1,4 +1,4 @@
-# Electronic Lock System
+# ELECTRONIC LOCK SYSTEM
 This electronic lock system, built using PIC microcontroller, can be used to protect any device with a password. Be it your ATM interaction, home/ office automation, industrial devices or even just your microcontroller based embedded project, you would not want a third person to access your device and be able to change the settings. In such cases, electronic lock system or electronic password protection system becomes handy. 
 
 # Working of the lock system
